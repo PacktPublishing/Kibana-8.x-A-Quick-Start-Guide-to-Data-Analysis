@@ -1,2 +1,2 @@
-# Kibana-8-Definitive-Guide
-Kibana 8 Definitive Guide, published by Packt
+# Kibana 8.x – A Quick Start Guide to Data Analysis
+Kibana 8.x – A Quick Start Guide to Data Analysis, published by Packt

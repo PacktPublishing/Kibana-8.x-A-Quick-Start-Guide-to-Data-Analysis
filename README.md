@@ -36,8 +36,6 @@ GET kibana_sample_data_ecommerce/_search
 **Following is what you need for this book:**
 If you’re a data analyst or a data engineer, this book is for you. It’s also a useful resource to database administrators, analysts, and business users looking to build a foundation in creating intuitive dashboards using Kibana 8.x and data analysis techniques for improved decision making. Foundational knowledge of Elasticsearch fundamentals will provide an added advantage.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-10).
-
 ### Related products <Other books you may enjoy>
 * Getting Started with Elastic Stack 8.0  [[Packt]](https://www.packtpub.com/product/getting-started-with-elastic-stack-80/9781800569492) [[Amazon]](https://www.amazon.com/Getting-Started-Elastic-Stack-8-0/dp/1800569491/ref=sr_1_1?dib=eyJ2IjoiMSJ9.6VXUZMy5UcrPhOiSOB7NNVm5q78PF47FW1xlbnM9q9fRgHMWy4bXcFHocwM025WuZ-VSinczn6gFgDbCgOdebC3sCrNx7fWzrpPsQgaOYn-OmFETJVSM8YdDmGNXrd8h1GmlFB9lui6HjElXAN4qmOfRpXB0raAydyhm8I1DV5UxGKRK5SDzMxX05_0qPM8AdoncZndSNvrTCEV2-SZLY4P_mmOcKCIvhIcg-3GR-h4.vSpHU0M03viWTrrhQFoErZNvQNuVJkbvd9Z_of3-XJI&dib_tag=se&keywords=Getting+Started+with+Elastic+Stack+8.0&sr=8-1)
   
